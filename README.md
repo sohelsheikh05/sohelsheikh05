@@ -88,9 +88,8 @@ An intelligent tutoring system that nudges students toward answers through conte
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/↗%20View%20on%20GitHub-a9b1d6?style=flat-square&logo=github&logoColor=1e2030)](https://github.com/sohelsheikh05/Hint-Tutor)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/sohelsheikh05/Hint-Tutor?style=flat-square&color=7aa2f7&label=⭐)
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Hint-Tutor)
+
 
 </div>
 <br/>
@@ -125,9 +124,8 @@ A full-featured dental clinic management system handling the complete patient jo
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/↗%20View%20on%20GitHub-a9b1d6?style=flat-square&logo=github&logoColor=1e2030)](https://github.com/sohelsheikh05/Dentitrack)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/sohelsheikh05/Dentitrack?style=flat-square&color=7aa2f7&label=⭐)
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Dentitrack)
+
 
 </div>
 <br/>
@@ -144,6 +142,7 @@ A full-featured dental clinic management system handling the complete patient jo
 A computer vision pipeline that classifies media as real or AI-manipulated — built to counter synthetic media threats with high-precision deep learning at the frame level.
 
 <br/>
+
 
 **What it does**
 - CNN-based feature extraction on individual video frames
@@ -162,9 +161,8 @@ A computer vision pipeline that classifies media as real or AI-manipulated — b
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/↗%20View%20on%20GitHub-a9b1d6?style=flat-square&logo=github&logoColor=1e2030)](https://github.com/sohelsheikh05/deepfake-detection-system)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/sohelsheikh05/DeepFake-Detection?style=flat-square&color=7aa2f7&label=⭐)
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/deepfake-detection-system)
+
 
 </div>
 <br/>
@@ -304,25 +302,57 @@ UrbanFur is a pet grooming service platform that connects pet owners with profes
 </a>
 
 <br/><br/>
+</div>
 
-### 📌 Problem Solving Profiles
 
+---
+## 🏆 Problem Solving Profiles
+
+<div align="center">
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
 <a href="https://leetcode.com/sohel_1007/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>&nbsp;
-<a href="https://www.codechef.com/users/sohel_1007">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.hackerrank.com/sheikhsohel1007">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>&nbsp;
-<a href="https://codeforces.com/profile/sheikhsohel1007">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-1e2030?style=for-the-badge&logo=leetcode&logoColor=FFA116" /><br/>
+
 </a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.codechef.com/users/sohel_1007">
+<img src="https://img.shields.io/badge/CodeChef-1e2030?style=for-the-badge&logo=codechef&logoColor=a9b1d6" /><br/>
+
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.hackerrank.com/sheikhsohel1007">
+<img src="https://img.shields.io/badge/HackerRank-1e2030?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /><br/>
+
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://codeforces.com/profile/sheikhsohel1007">
+<img src="https://img.shields.io/badge/Codeforces-1e2030?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" /><br/>
+
+</a>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 </div>
 
 ---
+
+
 
 ## ✍️ Dev Quote of the Day
 
