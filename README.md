@@ -53,124 +53,124 @@ currently:  Building · Learning · Solving
 ---
 
 ## 🗂️ Featured Projects
-
+ 
 <br/>
-
+ 
 <table>
 <tr>
-
+ 
 <td width="33%" valign="top">
 <br/>
 <div align="center">
-<b>🎓 Hint-Tutor</b><br/>
-<sub>AI &nbsp;·&nbsp; Education &nbsp;·&nbsp; NLP</sub>
+<b>🔍 Deepfake Detection System</b><br/>
+<sub>Deep Learning &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; AI Safety</sub>
 </div>
 <br/>
-
-An intelligent tutoring system that nudges students toward answers through contextual hints — built to develop real problem-solving depth, not dependency on shortcuts.
-
+ 
+A video-level deepfake detection system combining **ResNeXt CNN** and **LSTM** to capture both spatial and temporal patterns — trained on FaceForensics++ achieving ~86% classification accuracy.
+ 
 <br/>
-
+ 
 **What it does**
-- Generates adaptive hints based on the student's query context
-- Maintains subject-awareness for relevant, focused guidance
-- Real-time interactive Q&A interface via Streamlit
-- Encourages independent thinking over passive answer-seeking
-
+- Hybrid ResNeXt + LSTM architecture for spatial-temporal analysis
+- OpenCV preprocessing pipeline — frame extraction, normalization, tensor prep
+- End-to-end inference on real-world video inputs
+- Trained & evaluated on the FaceForensics++ benchmark dataset
+ 
 <br/>
-
+ 
 <div align="center">
-
+ 
 ![Python](https://img.shields.io/badge/Python-1e2030?style=flat-square&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-1e2030?style=flat-square&logo=streamlit&logoColor=FE4B4B)
-![NLP](https://img.shields.io/badge/NLP-1e2030?style=flat-square&logoColor=a9b1d6)
-![AI/ML](https://img.shields.io/badge/AI%2FML-1e2030?style=flat-square&logo=openai&logoColor=a9b1d6)
-
+![PyTorch](https://img.shields.io/badge/PyTorch-1e2030?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e2030?style=flat-square&logo=opencv&logoColor=a9b1d6)
+![LSTM](https://img.shields.io/badge/LSTM-1e2030?style=flat-square&logoColor=a9b1d6)
+ 
 <br/>
+ 
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/deepfake-detection-system)
 
-[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Hint-Tutor)
-
-
+ 
 </div>
 <br/>
 </td>
+ 
+<td width="33%" valign="top">
+<br/>
+<div align="center">
+<b>🎓 HintTutor — AI Coding Assistant</b><br/>
+<sub>Chrome Extension &nbsp;·&nbsp; LLM &nbsp;·&nbsp; Prompt Engineering</sub>
+</div>
+<br/>
+ 
+A Chrome extension that reads coding problems directly from the browser and uses **OpenAI GPT** to generate structured, step-by-step hints — guiding thinking without giving away the answer.
+ 
+<br/>
+ 
+**What it does**
+- Dynamically extracts coding problems from any webpage context
+- Prompt-engineered workflows for progressive hint generation
+- Structured hint flow encouraging step-by-step reasoning
+- Seamless LLM interaction via the OpenAI API
+ 
+<br/>
+ 
+<div align="center">
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-1e2030?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Chrome API](https://img.shields.io/badge/Chrome_Extension-1e2030?style=flat-square&logo=googlechrome&logoColor=4285F4)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-1e2030?style=flat-square&logo=openai&logoColor=a9b1d6)
+ 
+<br/>
+ 
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Hint-Tutor)
 
+ 
+</div>
+<br/>
+</td>
+ 
 <td width="33%" valign="top">
 <br/>
 <div align="center">
 <b>🦷 DentiTrack</b><br/>
-<sub>Backend &nbsp;·&nbsp; Healthcare &nbsp;·&nbsp; Full Stack</sub>
+<sub>Full Stack &nbsp;·&nbsp; Healthcare &nbsp;·&nbsp; REST API</sub>
 </div>
 <br/>
-
-A full-featured dental clinic management system handling the complete patient journey — registrations, records, appointments — built for operational clarity and long-term scale.
-
+ 
+A full-stack dental clinic management system handling appointments, billing, and patient records — with JWT auth, automated email notifications, and a live deployed frontend.
+ 
 <br/>
-
+ 
 **What it does**
-- Structured patient records with full medical history
-- Appointment scheduling with conflict-aware logic
-- Role-based access for doctors, staff, and admins
-- Clean REST API backend powering a React frontend
-
+- MongoDB schemas for treatment history, billing & document storage
+- Secure JWT role-based access for staff, doctors, and admins
+- Automated email notifications for appointment workflows
+- RESTful APIs via Node.js + Express powering a React frontend
+ 
 <br/>
-
+ 
 <div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-1e2030?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-1e2030?style=flat-square&logo=express&logoColor=a9b1d6)
-![MongoDB](https://img.shields.io/badge/MongoDB-1e2030?style=flat-square&logo=mongodb&logoColor=4ea94b)
+ 
 ![React](https://img.shields.io/badge/React-1e2030?style=flat-square&logo=react&logoColor=61DAFB)
-
+![Node.js](https://img.shields.io/badge/Node.js-1e2030?style=flat-square&logo=node.js&logoColor=6DA55F)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2030?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![JWT](https://img.shields.io/badge/JWT-1e2030?style=flat-square&logo=jsonwebtokens&logoColor=a9b1d6)
+ 
 <br/>
-
+ 
 [![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Dentitrack)
-
-
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/_%20Live%20Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://dentitrack.vercel.app)
+ 
 </div>
 <br/>
 </td>
-
-<td width="33%" valign="top">
-<br/>
-<div align="center">
-<b>🔍 DeepFake Detection</b><br/>
-<sub>Deep Learning &nbsp;·&nbsp; CV &nbsp;·&nbsp; AI Safety</sub>
-</div>
-<br/>
-
-A computer vision pipeline that classifies media as real or AI-manipulated — built to counter synthetic media threats with high-precision deep learning at the frame level.
-
-<br/>
-
-
-**What it does**
-- CNN-based feature extraction on individual video frames
-- Binary real vs. fake classification with low false-positive rate
-- Trained on curated deepfake benchmark datasets
-- Designed for precision-first detection accuracy
-
-<br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1e2030?style=flat-square&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1e2030?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-1e2030?style=flat-square&logo=opencv&logoColor=a9b1d6)
-![CNN](https://img.shields.io/badge/CNN-1e2030?style=flat-square&logoColor=a9b1d6)
-
-<br/>
-
-[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/deepfake-detection-system)
-
-
-</div>
-<br/>
-</td>
-
+ 
 </tr>
 </table>
-
+ 
+<br/>
 ---
 
 ## 💼 Experience
