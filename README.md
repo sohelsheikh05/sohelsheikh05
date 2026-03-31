@@ -274,12 +274,12 @@ UrbanFur is a pet grooming service platform that connects pet owners with profes
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sohelsheikh05&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sohelsheikh05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" width="49%" /> -->
+ <img src="https://streak-stats.demolab.com?user=sohelsheikh05&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=0" width="49%" /> 
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=sohelsheikh05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&cache_seconds=0" width="49%" /> -->
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelsheikh05&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="40%" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelsheikh05&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="40%" />  -->
 
 </div>
 
