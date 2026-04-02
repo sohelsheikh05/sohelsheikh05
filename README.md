@@ -88,7 +88,7 @@ A video-level deepfake detection system combining **ResNeXt CNN** and **LSTM** t
  
 <br/>
  
-[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/deepfake-detection-system)
+[![View on GitHub](https://img.shields.io/badge/_%20View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sohelsheikh05/Deepfake-Detection)
 
  
 </div>
